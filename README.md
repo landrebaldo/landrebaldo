@@ -6,7 +6,7 @@
       
 <!-- Presentation -->
 <pre>
-  - 🔭 Hoje trabalho como Freelance.
+  - 🔭 Sem trabalho no momento.
   - 🌱 Estudando Engenharia de Software.
   - 💬 Contate-me no email: landrebaldo.oficial@gmail.com
   - 📫 Estado de São Paulo, Brasil.
@@ -56,5 +56,5 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  
 </p>
